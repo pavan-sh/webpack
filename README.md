@@ -12,7 +12,7 @@
 [![dependency-review][dependency-review]][dependency-review-url]
 [![coverage][cover]][cover-url]
 [![pkg.pr.new](https://pkg.pr.new/badge/webpack/webpack)](https://pkg.pr.new/~/webpack/webpack)
-[![PR's welcome][prs]][prs-url]
+[![PRs welcome][prs]][prs-url]
 [![compatibility-score](https://api.dependabot.com/badges/compatibility_score?dependency-name=webpack&package-manager=npm_and_yarn&previous-version=5.72.1&new-version=5.73.0)](https://docs.github.com/en/code-security/dependabot/dependabot-security-updates/about-dependabot-security-updates#about-compatibility-scores)
 [![downloads](https://img.shields.io/npm/dm/webpack.svg)](https://npmcharts.com/compare/webpack?minimal=true)
 [![install-size](https://packagephobia.com/badge?p=webpack)](https://packagephobia.com/result?p=webpack)
@@ -233,7 +233,7 @@ or are automatically applied via regex from your webpack configuration.
 ### Performance
 
 Webpack uses async I/O and has multiple caching levels. This makes webpack fast
-and incredibly **fast** on incremental compilations.
+and incredibly **efficient** on incremental compilations.
 
 ### Module Formats
 
